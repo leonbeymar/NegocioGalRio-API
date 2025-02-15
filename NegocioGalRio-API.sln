@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NegocioGalRio-API", "NegocioGalRio-API\NegocioGalRio-API.csproj", "{14546B64-6DF3-4E3B-B34B-801D5B4B682E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14546B64-6DF3-4E3B-B34B-801D5B4B682E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14546B64-6DF3-4E3B-B34B-801D5B4B682E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14546B64-6DF3-4E3B-B34B-801D5B4B682E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14546B64-6DF3-4E3B-B34B-801D5B4B682E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3925DA62-0119-4FDA-B89C-E5965EB7CBDE}
+	EndGlobalSection
+EndGlobal
